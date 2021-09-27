@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=541558a0-a793-4b82-8987-fbb0f06e6001
-CADDYIndexPage=https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/archive/master.zip
+AUUID=8c20dac5-4063-47e2-9590-50c57d832f48
+CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
